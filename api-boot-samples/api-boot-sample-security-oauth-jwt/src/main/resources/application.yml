@@ -6,7 +6,7 @@ api:
     security:
       # Spring Security 内存方式用户列表示例
       #users:
-        #- username: hengboy
+        #- username: hengbo1y
         #  password: 123456
         #- username: apiboot
         #  password: abc321
